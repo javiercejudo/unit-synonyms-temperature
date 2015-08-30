@@ -1,0 +1,35 @@
+{
+  "name": "unit-synonyms-temperature",
+  "version": "0.0.0",
+  "description": "Temperature units synonyms",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javiercejudo/unit-synonyms-temperature"
+  },
+  "keywords": [
+    "linear-presets",
+    "conversion",
+    "temperature",
+    "scales"
+  ],
+  "author": "Javier Cejudo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javiercejudo/unit-synonyms-temperature/issues"
+  },
+  "homepage": "https://github.com/javiercejudo/unit-synonyms-temperature",
+  "devDependencies": {
+    "for-own": "^0.1.3",
+    "gulp": "^3.8.11",
+    "gulp-coveralls": "^0.1.3",
+    "gulp-istanbul": "^0.6.0",
+    "gulp-mocha": "^2.0.0",
+    "rescale": "^6.1.0",
+    "rimraf": "^2.3.2",
+    "should": "^5.0.0"
+  }
+}

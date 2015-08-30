@@ -1,0 +1,54 @@
+{
+  "celsius": "celsius",
+  "centigrade": "celsius",
+  "centigrades": "celsius",
+  "°C": "celsius",
+  "degree celsius": "celsius",
+  "degrees celsius": "celsius",
+
+  "fahrenheit": "fahrenheit",
+  "fahrenheits": "fahrenheit",
+  "°F": "fahrenheit",
+  "degree fahrenheit": "fahrenheit",
+  "degrees fahrenheit": "fahrenheit",
+
+  "kelvin": "kelvin",
+  "kelvins": "kelvin",
+  "K": "kelvin",
+
+  "rankine": "rankine",
+  "rankines": "rankine",
+  "°R": "rankine",
+  "degree rankine": "rankine",
+  "degrees rankine": "rankine",
+
+  "romer": "romer",
+  "romers": "romer",
+  "degree romer": "romer",
+  "degree romers": "romer",
+  "rømer": "romer",
+  "rømers": "romer",
+  "degree rømer": "romer",
+  "degrees rømers": "romer",
+  "°Rø": "romer",
+  "°Ro": "romer",
+
+  "newton": "newton",
+  "newtons": "newton",
+  "degree newton": "newton",
+  "degrees newton": "newton",
+  "°N": "newton",
+
+  "delisle": "delisle",
+  "delisles": "delisle",
+  "degree delisle": "delisle",
+  "degrees delisle": "delisle",
+  "°D": "delisle",
+
+  "reaumur": "reaumur",
+  "reaumurs": "reaumur",
+  "degree reaumur": "reaumur",
+  "degrees reaumur": "reaumur",
+  "°Ré": "reaumur",
+  "°Re": "reaumur"
+}
