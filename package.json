@@ -1,6 +1,6 @@
 {
   "name": "unit-synonyms-temperature",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Temperature units synonyms",
   "main": "src/index.js",
   "scripts": {
