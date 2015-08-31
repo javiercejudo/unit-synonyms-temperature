@@ -11,10 +11,9 @@
     "url": "https://github.com/javiercejudo/unit-synonyms-temperature"
   },
   "keywords": [
-    "linear-presets",
+    "unit-synonyms",
     "conversion",
-    "temperature",
-    "scales"
+    "temperature"
   ],
   "author": "Javier Cejudo",
   "license": "MIT",
